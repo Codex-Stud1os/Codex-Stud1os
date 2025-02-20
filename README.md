@@ -1,4 +1,5 @@
 # 🏄‍♂️ Codex Studios
+[![MasterHead](https://media.discordapp.net/attachments/1341689846095286342/1342227814392533002/banner.png?ex=67b8de90&is=67b78d10&hm=b3808f13c008186fbf075abe5d4796cfa46927eade6589237ae0366c6614a1b2&=&format=webp&quality=lossless&width=550&height=208)](https://discord.gg/rCvrpmHfPR)
 
 **`Codex Studios`**
 
