@@ -8,16 +8,6 @@ Welcome to Codex Studios, where innovation meets excellence in the realm of RedM
 **`Our Mission`**
 At Codex Studios, our mission is simple: to empower the RedM community with high-quality, optimized scripts that seamlessly integrate into any server environment. We believe that every player deserves an immersive and engaging experience, and we work tirelessly to provide the tools that make this possible.
 
-   <p align="left">
-      <a href="https://www.youtube.com/@official.codexstudios?sub_confirmation=1">
-         <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC2WHjPDvbE6O328n17ZGcfg?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
-      <a href="https://www.youtube.com/@official.codexstudios">
-         <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UC2WHjPDvbE6O328n17ZGcfg?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
-      <a href="https://github.com/Codex-Stud1os?tab=followers">
-         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Codex-Stud1os?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-      <a href="https://github.com/Codex-Stud1os?tab=repositories&sort=stargazers">
-         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Codex-Stud1os?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-   </p>
 
 ---
 
@@ -50,13 +40,12 @@ At Codex Studios, our mission is simple: to empower the RedM community with high
 
 <!-- END YOUTUBE-CARDS -->
 
-[<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/c/@official.codexstudios?sub_confirmation=1)
 
 #
 
 ### 📊 Stats
 
-![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=Codex-Stud1os&show_icons=true&theme=gruvbox)
+![Codex  Studios GitHub stats](https://github-readme-stats.vercel.app/api?username=Codex-Stud1os&show_icons=true&theme=gruvbox)
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
 
