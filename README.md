@@ -53,7 +53,7 @@ At Codex Studios, our mission is simple: to empower the RedM community with high
 <!--
 <details>
  <summary><h3>📢 Codex Studios</h3></summary>
-What We Offer
+What We Offer:
 Optimized Scripts for RedM:
 Our library boasts a wide array of scripts tailored for various gameplay styles. Whether you’re enhancing criminal activities, embarking on treasure hunts, or crafting unique mechanics, our solutions are designed for peak performance and reliability.
 
